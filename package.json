@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "ee-typed": "^0.1.1",
-    "mpc-framework-common": "^0.3.0",
+    "mpc-framework-common": "git+https://github.com/debucmunity/mpc-framework-common.git",
     "msgpackr": "^1.11.0",
     "zod": "^3.23.8"
   }
